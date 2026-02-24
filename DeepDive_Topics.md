@@ -1,4 +1,4 @@
-# System Design Component Taxonomy — Deep Dive Topics
+# System Design Component — Deep Dive Topics
 
 
 ## 1. DNS (CoreDNS, BIND, PowerDNS, Unbound, Route 53, Cloud DNS, Azure DNS, Traffic Manager)
